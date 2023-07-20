@@ -3,15 +3,19 @@
 `Front-end Developer on the move`
 
 Hi everyone, I'm Umberto, and I'm an Italian Front-end Developer and a tech enthusiast. I love to tackle new challenges and learn new ways to make things happen thanks to programming languages. I think that keep studying and improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience in a foreign country.
+
 <!-- cosa sto facendo ora -->
 
 If you like my profile, don't forget to hit the ⭐️ button
 
-<!-- ### 💁🏼‍♂️ Contact me! -->
+### 💁🏼‍♂️ Contact me!
+
+<img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<br />
 
 #
 
-### 🛠️ Languages and Tools
+### ![Languages and Tools](https://icons8.com/icon/XwzkraQQ32YR/tools)
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
