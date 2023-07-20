@@ -2,7 +2,12 @@
 
 `Front-end Developer on the move`
 
-### Contact me!
+Hi everyone, I'm Umberto, and I'm an Italian Front-end Developer and a tech enthusiast. I love to tackle new challenges and learn new ways to make things happen thanks to programming languages. I think that keep studying and improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience in a foreign country.
+<!-- cosa sto facendo ora -->
+
+If you like my profile, don't forget to hit the ⭐️ button
+
+<!-- ### 💁🏼‍♂️ Contact me! -->
 
 #
 
@@ -27,25 +32,25 @@
 
 ### 👨🏼‍🏭 Projects
 
-| Name | Languages |
-| --- | :---: |
-| [**🔗 Calculator**](https://github.com/Egesiapres/bootstrap-calculator) | HTML, SASS, JS, Bootstrap |
-| [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app) | React, MaterialUI |
-| [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz) | R, ggplot2 |
-| [**🔗 WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog) | Wordpress, Elementor |
+| Name                                                                          |         Languages         |
+| ----------------------------------------------------------------------------- | :-----------------------: |
+| [**🔗 Calculator**](https://github.com/Egesiapres/bootstrap-calculator)       | HTML, SASS, JS, Bootstrap |
+| [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |     React, MaterialUI     |
+| [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz)            |        R, ggplot2         |
+| [**🔗 WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |   Wordpress, Elementor    |
 | [**🔗 Web development studies**](https://github.com/Egesiapres/webDev-skills) | HTML, CSS, JS, TypeScript |
-| [**🔗 WreckCity site**](https://github.com/Egesiapres/wreckCity-site) | HTML, CSS, JS |
-| [**🔗 Scarface site**](https://github.com/Egesiapres/scarface-site) | HTML, CSS |
+| [**🔗 WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |       HTML, CSS, JS       |
+| [**🔗 Scarface site**](https://github.com/Egesiapres/scarface-site)           |         HTML, CSS         |
 
 #
 
 ### 🕵🏼 Stats
 
-<a href="https://github.com/egesiapres/github-readme-stats" title="GitHub Stats Card" style="margin-right: 10px">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github&custom_title=GitHub numbers" style="margin: 0 10px 10px 0">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=400">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=300">
 </a>
 
 <!--START_SECTION:SHOW_LANGUAGE-->
