@@ -2,9 +2,9 @@
 
 `Front-end Developer on the move`
 
-<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" alt="Immagine" width="350px" align="right" />
+<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" alt="Immagine" width="370px" align="right" />
 
-<p align="left"">Hi everyone, I'm Umberto, and I'm an Italian Front-end Developer and a<br>tech enthusiast.<br> I love to tackle new challenges and learn new ways to make things happen thanks to programming languages. I think that keep studying and<br>improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience in a foreign country.</p>
+Hi everyone, I'm _Umberto_, and I'm an Italian Front-end Developer and a<br>tech enthusiast.<br> I love to tackle __challenges__ and learn __new ways__ to make things happen thanks to programming languages. I think that keep studying and<br>improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience in a __foreign country.__
 
 <!-- cosa sto facendo ora -->
 
@@ -14,6 +14,7 @@ If you like my profile, don't forget to hit the ⭐️ button
 
 <a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/fluency/48/gmail-new.png" style='margin-right: 10px'/></a>
+<a href="https://www.reddit.com/user/Egesiapres"><img align='left' alt='Reddit' width='30px' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" style='margin-right: 10px'/></a>
 <br />
 
 #
