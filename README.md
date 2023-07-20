@@ -47,7 +47,7 @@ If you like my profile, don't forget to hit the ⭐️ button
 ### 🕵🏼 Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github&custom_title=GitHub numbers" style="margin: 0 10px 10px 0">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github" style="margin: 0 10px 10px 0">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=300">
