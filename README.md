@@ -10,7 +10,8 @@ If you like my profile, don't forget to hit the ⭐️ button
 
 ### 💁🏼‍♂️ Contact me!
 
-<img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+<a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/fluency/48/gmail-new.png" style='margin-right: 10px'/></a>
 <br />
 
 #
