@@ -3,7 +3,6 @@
 `Front-end Developer on the move`
 
 Hi everyone, I'm Umberto, and I'm an Italian Front-end Developer and a tech enthusiast. I love to tackle new challenges and learn new ways to make things happen thanks to programming languages. I think that keep studying and improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience in a foreign country.
-
 <!-- cosa sto facendo ora -->
 
 If you like my profile, don't forget to hit the ⭐️ button
@@ -47,8 +46,12 @@ If you like my profile, don't forget to hit the ⭐️ button
 
 ### 🕵🏼 Stats
 
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github" style="margin: 0 10px 10px 0">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=300">
+<a href="https://github.com/Egesiapres">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github&custom_title=GitHub numbers" style="margin: 0 10px 10px 0">
+</a>
+<a href="https://github.com/Egesiapres">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=320">
+</a>
 
 <!--START_SECTION:SHOW_LANGUAGE-->
 <!--END_SECTION:SHOW_LANGUAGE-->
