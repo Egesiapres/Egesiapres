@@ -2,7 +2,7 @@
 
 `Front-end Developer on the move`
 
-<img src="https://cdn.dribbble.com/users/1099127/screenshots/4748517/media/de1b49e53fdb134a9e3a7a8503f6c332.gif" alt="Immagine" width="350px" align="right" />
+<img src="https://cdn.dribbble.com/users/1201592/screenshots/9078494/media/422a760a51cef7de2fa3db9daf697853.gif" alt="Immagine" width="350px" align="right" />
 
 <p align="left"">Hi everyone, I'm Umberto, and I'm an Italian Front-end Developer and a tech enthusiast.<br> I love to tackle new challenges and learn new ways to make things happen thanks to programming languages. I think that keep studying and improving over the time is what make us feel alive, the key to never get old. As now, my goal is to make a job experience<br>in a foreign country.</p>
 
