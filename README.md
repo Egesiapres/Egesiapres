@@ -13,13 +13,13 @@ If you like my profile, don't forget to hit the ⭐️ button
 ### 💁🏼‍♂️ Contact me!
 
 <a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/fluency/48/gmail-new.png" style='margin-right: 10px'/></a>
 <a href="https://www.reddit.com/user/Egesiapres"><img align='left' alt='Reddit' width='30px' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" style='margin-right: 10px'/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/fluency/48/gmail-new.png" style='margin-right: 10px'/></a>
 <br />
 
 #
 
-### 🛠️ Languages and Tools
+### 🛠️ Skills
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
@@ -58,7 +58,7 @@ If you like my profile, don't forget to hit the ⭐️ button
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight" style="margin-right: 20px" />
 </a>
 <a href="https://github.com/Egesiapres">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=300">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=400">
 </a>
 
 <!--START_SECTION:SHOW_LANGUAGE-->
