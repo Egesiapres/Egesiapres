@@ -46,10 +46,10 @@ If you like my profile, don't forget to hit the ⭐️ button
 
 ### 🕵🏼 Stats
 <a href="https://github.com/Egesiapres">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight" style="margin: 0 10px 15px 0" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight" style="margin: 0 15px 15px 0" />
 </a>
 <a href="https://github.com/Egesiapres">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=320">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=300">
 </a>
 
 <!--START_SECTION:SHOW_LANGUAGE-->
