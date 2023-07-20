@@ -15,7 +15,7 @@ If you like my profile, don't forget to hit the ⭐️ button
 
 #
 
-### ![Languages and Tools](https://icons8.com/icon/XwzkraQQ32YR/tools)
+### 🛠️ Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
