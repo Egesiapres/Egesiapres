@@ -1,8 +1,11 @@
 # 🗡️ Egesiapres
 
-`Developer on the move`
+`Front-end Developer on the move`
 
----
+### Contact me!
+
+#
+
 ### 🛠️ Languages and Tools
 
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -38,9 +41,12 @@
 
 ### 🕵🏼 Stats
 
-<a href="https://github.com/egesiapres/github-readme-stats" title="GitHub Top Languages Card">
- 	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
+<a href="https://github.com/egesiapres/github-readme-stats" title="GitHub Stats Card" style="margin-right: 10px">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight&show=reviews&rank_icon=github">
 </a>
-<a href="https://github.com/egesiapres/github-readme-stats" title="GitHub Stats Card">
- 	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=react&show=reviews">
+<a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=400">
 </a>
+
+<!--START_SECTION:SHOW_LANGUAGE-->
+<!--END_SECTION:SHOW-->
