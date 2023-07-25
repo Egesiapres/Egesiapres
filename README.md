@@ -55,7 +55,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 #
 
-### 🕵🏼 Overall Stats
+### 🕵🏼 Stats
 
 <a href="https://github.com/Egesiapres">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight" style="margin-right: 20px" />
@@ -64,10 +64,6 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=375">
 </a>
 <br />
-
-#
-
-### This
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2044%20mins-blue)
