@@ -64,14 +64,5 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=375">
 </a>
 
-<!--START_SECTION:SHOW_LANGUAGE:-->
-<!--END_SECTION:SHOW_LANGUAGE-->
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--START_SECTION:SHOW_OS-->
-<!--END_SECTION:SHOW_OS-->
-
-<!--START_SECTION:SYMBOL_VERSION:2-->
-<!--END_SECTION:SYMBOL_VERSION:2-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
