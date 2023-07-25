@@ -12,10 +12,10 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 ### 💁🏼‍♂️ Contact me!
 
-<a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" style='margin-right: 10px'/></a>
-<a href="https://telegram.me/Egesiapres"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" style='margin-right: 10px'/></a>
-<a href="https://www.reddit.com/user/Egesiapres"><img align='left' alt='Reddit' width='30px' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" style='margin-right: 10px'/></a>
+<a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US" target="_blank"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com" target="_blank"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" style='margin-right: 10px'/></a>
+<a href="https://telegram.me/Egesiapres" target="_blank"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" style='margin-right: 10px'/></a>
+<a href="https://www.reddit.com/user/Egesiapres" target="_blank"><img align='left' alt='Reddit' width='30px' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" style='margin-right: 10px'/></a>
 <br />
 
 #
@@ -55,7 +55,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 #
 
-### 🕵🏼 Stats
+### 🕵🏼 Overall Stats
 
 <a href="https://github.com/Egesiapres">
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=Egesiapres&show_icons=true&theme=tokyonight" style="margin-right: 20px" />
@@ -63,6 +63,11 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <a href="https://github.com/Egesiapres">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=375">
 </a>
+<br />
+
+#
+
+### This
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2044%20mins-blue)
