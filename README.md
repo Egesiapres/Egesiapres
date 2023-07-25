@@ -14,7 +14,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 <a href="https://www.linkedin.com/in/umberto-pasinetti/?locale=en_US"><img align='left' alt='LinkedIn' width='30px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style='padding-right: 10px;'/></a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Gmail' width='30px' src="https://img.icons8.com/color/96/gmail-new.png" style='margin-right: 10px'/></a>
-<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=pasinetti96@gmail.com"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" style='margin-right: 10px'/></a>
+<a href="https://telegram.me/Egesiapres"><img align='left' alt='Telegram' width='30px' src="https://img.icons8.com/color/96/telegram-app--v1.png" style='margin-right: 10px'/></a>
 <a href="https://www.reddit.com/user/Egesiapres"><img align='left' alt='Reddit' width='30px' src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-reddit-gives-you-the-best-of-the-internet-in-one-place-logo-color-tal-revivo.png" style='margin-right: 10px'/></a>
 <br />
 
@@ -46,10 +46,10 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 | ----------------------------------------------------------------------------- | :---------------------------------------: |
 | [**🔗 Portfolio**](https://github.com/Egesiapres/bootstrap-calculator)        | React, TypeScript, Material UI, Vite, Git |
 | [**🔗 Calculator**](https://github.com/Egesiapres/bootstrap-calculator)       |  Bootstrap, JavaScript, SASS, HTML, Git   |
-| [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |             React, Material UI             |
+| [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
 | [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
 | [**🔗 WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |           WordPress, Elementor            |
-| [**🔗 Web development studies**](https://github.com/Egesiapres/webDev-skills) |     HTML, CSS, JavaScript, TypeScript, Git     |
+| [**🔗 Web development studies**](https://github.com/Egesiapres/webDev-skills) |  HTML, CSS, JavaScript, TypeScript, Git   |
 | [**🔗 WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |           HTML, CSS, JavaScript           |
 | [**🔗 Scarface site**](https://github.com/Egesiapres/scarface-site)           |                 HTML, CSS                 |
 
@@ -64,5 +64,14 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=375">
 </a>
 
-<!--START_SECTION:SHOW_LANGUAGE-->
+<!--START_SECTION:SHOW_LANGUAGE:-->
 <!--END_SECTION:SHOW_LANGUAGE-->
+
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+
+<!--START_SECTION:SHOW_OS-->
+<!--END_SECTION:SHOW_OS-->
+
+<!--START_SECTION:SYMBOL_VERSION:2-->
+<!--END_SECTION:SYMBOL_VERSION:2-->
