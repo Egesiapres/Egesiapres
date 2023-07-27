@@ -67,13 +67,13 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2036%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 788.9 kB Used in GitHub's Storage 
+> 📦 788.8 kB Used in GitHub's Storage 
  > 
 > 🏆 216 Contributions in the Year 2023
  > 
@@ -145,5 +145,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 27/07/2023 15:16:47 UTC
+ Last Updated on 27/07/2023 18:31:22 UTC
 <!--END_SECTION:waka-->
