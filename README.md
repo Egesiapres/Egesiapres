@@ -44,7 +44,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 | Name                                                                          |                 Languages                 |
 | ----------------------------------------------------------------------------- | :---------------------------------------: |
-| [**🔗 Portfolio**](https://github.com/Egesiapres/bootstrap-calculator)        | React, TypeScript, Material UI, Vite, Git |
+| **🔗 Portfolio**        | React, TypeScript, Material UI, Vite, Git |
 | [**🔗 Calculator**](https://github.com/Egesiapres/bootstrap-calculator)       |  Bootstrap, JavaScript, SASS, HTML, Git   |
 | [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
 | [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
@@ -63,6 +63,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <a href="https://github.com/Egesiapres">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Egesiapres&layout=compact&theme=tokyonight&langs_count=10&hide=r,php&card_width=375">
 </a>
+<br />
 <br />
 
 <!--START_SECTION:waka-->
@@ -137,12 +138,4 @@ TeX                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 R                        1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.33 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
-
-
- Last Updated on 26/07/2023 18:31:40 UTC
 <!--END_SECTION:waka-->
