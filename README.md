@@ -44,7 +44,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 | Name                                                                          |                 Languages                 |
 | ----------------------------------------------------------------------------- | :---------------------------------------: |
-| **🔗 Portfolio**        | React, TypeScript, Material UI, Vite, Git |
+<!-- | **🔗 Portfolio**        | React, TypeScript, Material UI, Vite, Git | -->
 | [**🔗 Calculator**](https://github.com/Egesiapres/bootstrap-calculator)       |  Bootstrap, JavaScript, SASS, HTML, Git   |
 | [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
 | [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
