@@ -106,16 +106,16 @@ Sunday                   20 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-chc                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +135,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2023 18:32:08 UTC
+ Last Updated on 14/09/2023 18:31:40 UTC
 <!--END_SECTION:waka-->
