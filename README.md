@@ -65,7 +65,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-132%20hrs%2017%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -106,16 +106,16 @@ Sunday                   20 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               21 hrs 33 mins      █████████████████████████   100.00 % 
+JavaScript               17 hrs 29 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  21 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  17 hrs 29 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      21 hrs 33 mins      █████████████████████████   100.00 % 
+chc                      17 hrs 29 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      21 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      17 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -135,5 +135,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 29/09/2023 18:32:59 UTC
+ Last Updated on 30/09/2023 18:31:37 UTC
 <!--END_SECTION:waka-->
