@@ -44,14 +44,14 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 | Name                                                                          |                 Languages                 |
 | ----------------------------------------------------------------------------- | :---------------------------------------:
-| [**🔗 Weather app**](https://github.com/Egesiapres/weather-app)         |            HTML, CSS, JS, Git             |
-| [**🔗 Bootstrap calculator**](https://github.com/Egesiapres/bootstrap-calculator)         |            HTML, SCSS, JS, bootstrap, Git             |
+| [**🔗 Weather app**](https://github.com/Egesiapres/weather-app)               |            HTML, CSS, JS, Git             |
+| [**🔗 Bootstrap calculator**](https://github.com/Egesiapres/bootstrap-calculator)  |    HTML, SCSS, JS, bootstrap, Git    |
 | [**🔗 Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
 | [**🔗 Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
 | [**🔗 WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |           WordPress, Elementor            |
-| [**🔗 Web development studies**](https://github.com/Egesiapres/webDev-skills) |  HTML, CSS, JS, TS, Git   |
-| [**🔗 WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |           HTML, CSS, JS           |
-| [**🔗 Scarface site**](https://github.com/Egesiapres/scarface-site)           |                 HTML, CSS                 |
+| [**🔗 Web development studies**](https://github.com/Egesiapres/webDev-skills) |           HTML, CSS, JS, TS, Git          |
+| [**🔗 WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |           HTML, CSS, JS, Figma            |
+| [**🔗 Scarface site**](https://github.com/Egesiapres/scarface-site)           |             HTML, CSS, Figma              |
 
 #
 
