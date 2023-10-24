@@ -45,7 +45,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 | Name                                                                          |                 Languages                 |
 | ----------------------------------------------------------------------------- | :---------------------------------------:
 | 🔗 [**Weather app**](https://github.com/Egesiapres/weather-app)               |            HTML, CSS, JS, Git             |
-| 🔗 [**Bootstrap calculator**](https://github.com/Egesiapres/bootstrap-calculator)  |    HTML, SCSS, JS, bootstrap, Git    |
+| 🔗 [**Calculator app**](https://github.com/Egesiapres/calculator-app)  |    HTML, SCSS, JS, bootstrap, Git    |
 | 🔗 [**Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
 | 🔗 [**Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
 | 🔗 [**WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |           WordPress, Elementor            |
