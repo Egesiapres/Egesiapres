@@ -67,7 +67,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-517%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2015%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -108,7 +108,7 @@ Sunday                   39 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               26 hrs 33 mins      ██████████████████████░░░   89.92 % 
+JavaScript               26 hrs 33 mins      ██████████████████████░░░   89.93 % 
 JSON                     1 hr 41 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 TypeScript               55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
 CSS                      19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
@@ -119,7 +119,7 @@ VS Code                  29 hrs 31 mins      ███████████�
 
 🐱‍💻 Projects: 
 cod20                    22 hrs 19 mins      ███████████████████░░░░░░   75.59 % 
-cod20-dossier            5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+cod20-dossier            5 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
 webDev-skills            55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 cod20-patient            37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 chc                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
@@ -145,5 +145,5 @@ R                        1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 13/01/2024 18:31:34 UTC
+ Last Updated on 14/01/2024 18:31:39 UTC
 <!--END_SECTION:waka-->
