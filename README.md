@@ -67,7 +67,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-798%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-801%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.2%20million%20lines%20of%20code-blue)
 
@@ -108,17 +108,16 @@ Sunday                   43 commits          ██░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 21 mins       ████████████████████████░   98.00 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+JavaScript               3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      4 hrs 27 mins       █████████████████████████   100.00 % 
+chc                      3 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    4 hrs 27 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +137,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 01/05/2024 18:33:25 UTC
+ Last Updated on 02/05/2024 18:33:20 UTC
 <!--END_SECTION:waka-->
