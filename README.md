@@ -67,13 +67,15 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-980%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%206%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 789.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 473 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -106,19 +108,19 @@ Sunday                   54 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 hrs 1 min        █████████████████████████   99.75 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               19 hrs 20 mins      █████████████████████████   99.78 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  19 hrs 23 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      17 hrs 4 mins       █████████████████████████   100.00 % 
+chc                      19 hrs 23 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      19 hrs 23 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +140,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2024 18:34:18 UTC
+ Last Updated on 07/07/2024 18:34:31 UTC
 <!--END_SECTION:waka-->
