@@ -75,8 +75,6 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 > 📦 789.0 kB Used in GitHub's Storage 
  > 
-> 🏆 738 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -108,16 +106,20 @@ Sunday                   54 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   4 hrs 49 mins       ████████████████████████░   96.78 % 
+INI                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+TeX                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+R                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 hrs 58 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+e-prime data             4 hrs 58 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +139,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2024 18:39:11 UTC
+ Last Updated on 29/08/2024 18:39:56 UTC
 <!--END_SECTION:waka-->
