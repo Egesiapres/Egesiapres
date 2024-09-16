@@ -75,6 +75,8 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 > 📦 789.0 kB Used in GitHub's Storage 
  > 
+> 🏆 785 Contributions in the Year 2024
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -108,7 +110,6 @@ Sunday                   54 commits          █░░░░░░░░░░�
 💬 Programming Languages: 
 JavaScript               7 hrs 36 mins       █████████████████████░░░░   84.27 % 
 Python                   1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
 VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
@@ -137,5 +138,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 15/09/2024 18:39:38 UTC
+ Last Updated on 16/09/2024 18:41:34 UTC
 <!--END_SECTION:waka-->
