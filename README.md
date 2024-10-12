@@ -67,7 +67,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C149%20hrs%2055%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C150%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
@@ -106,18 +106,18 @@ Sunday                   54 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               4 hrs 41 mins       █████████████████░░░░░░░░   66.07 % 
-Python                   2 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JavaScript               7 hrs 32 mins       █████████████████████░░░░   83.60 % 
+Python                   1 hr 28 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  9 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      7 hrs 6 mins        █████████████████████████   100.00 % 
+chc                      9 hrs 1 min         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      7 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      9 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,5 +137,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2024 18:41:43 UTC
+ Last Updated on 12/10/2024 18:39:45 UTC
 <!--END_SECTION:waka-->
