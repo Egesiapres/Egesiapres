@@ -67,15 +67,13 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C162%20hrs%2033%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.3%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 789.1 kB Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -108,17 +106,22 @@ Sunday                   54 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               10 hrs 1 min        ████████████████████░░░░░   79.35 % 
-Python                   2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+JavaScript               10 hrs 16 mins      ███████████████████░░░░░░   77.28 % 
+Python                   2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+HTML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
+VS Code                  13 hrs 17 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      12 hrs 37 mins      █████████████████████████   100.00 % 
+chc                      12 hrs 3 mins       ███████████████████████░░   90.74 % 
+subEditor-app            51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+dataVisualization-app    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
 
 💻 Operating System: 
-Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
+Mac                      13 hrs 17 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +141,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2024 18:41:49 UTC
+ Last Updated on 18/10/2024 18:42:02 UTC
 <!--END_SECTION:waka-->
