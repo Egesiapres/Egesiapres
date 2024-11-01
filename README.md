@@ -42,12 +42,13 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 ### 👨🏼‍🏭 Projects
 
-| Name                                                                          |                 Languages                 |
+| Name                                                                          |                 Tech Stack                 |
 | ----------------------------------------------------------------------------- | :---------------------------------------:
-| 🔗 [**Weather app**](https://github.com/Egesiapres/weather-app)               |            HTML, CSS, JS, Git             |
-| 🔗 [**Calculator app**](https://github.com/Egesiapres/calculator-app)  |    HTML, SCSS, JS, bootstrap, Git    |
-| 🔗 [**Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI             |
-| 🔗 [**Data Visualization**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
+| 🔗 [**Subtitles Editor app**](https://github.com/Egesiapres/subEditor-app)    |            React, Material UI, JS, Git, Vite, Netlify       |
+| 🔗 [**Weather app**](https://github.com/Egesiapres/weather-app)               |            HTML, CSS, JS, Git, GitHub Pages                 |
+| 🔗 [**Calculator app**](https://github.com/Egesiapres/calculator-app)         |    HTML, SCSS, JS, bootstrap, Git, GitHub Pages             |
+| 🔗 [**Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI, JS         |
+| 🔗 [**Data Visualization course**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
 | 🔗 [**WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |           WordPress, Elementor            |
 | 🔗 [**Web development studies**](https://github.com/Egesiapres/webDev-skills) |           HTML, CSS, JS, TS, Git          |
 | 🔗 [**WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |           HTML, CSS, JS, Figma            |
