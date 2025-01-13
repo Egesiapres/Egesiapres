@@ -76,6 +76,8 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 > 📦 789.5 kB Used in GitHub's Storage 
  > 
+> 🏆 2 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
@@ -141,5 +143,5 @@ TeX                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 12/01/2025 18:39:36 UTC
+ Last Updated on 13/01/2025 18:43:57 UTC
 <!--END_SECTION:waka-->
