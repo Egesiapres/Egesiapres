@@ -25,11 +25,12 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="MaterialUI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" />
 <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />        
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="SASS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" />
 <img align="left" alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
@@ -42,17 +43,16 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 ### 👨🏼‍🏭 Projects
 
-| Name                                                                          |                 Tech Stack                 |
-| ----------------------------------------------------------------------------- | :---------------------------------------:
-| 🔗 [**Subtitles Editor app**](https://github.com/Egesiapres/subEditor-app)    |            React, Material UI, JS, Git, Vite, Netlify       |
-| 🔗 [**Weather app**](https://github.com/Egesiapres/weather-app)               |            HTML, CSS, JS, Git, GitHub Pages                 |
-| 🔗 [**Calculator app**](https://github.com/Egesiapres/calculator-app)         |    HTML, SCSS, JS, bootstrap, Git, GitHub Pages             |
-| 🔗 [**Facilities app**](https://github.com/Egesiapres/facilities-app)         |            React, Material UI, JS         |
-| 🔗 [**Data Visualization course**](https://github.com/Egesiapres/dataViz)            |                R, ggplot2                 |
-| 🔗 [**WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |           WordPress, Elementor            |
-| 🔗 [**Web development studies**](https://github.com/Egesiapres/webDev-skills) |           HTML, CSS, JS, TS, Git          |
-| 🔗 [**WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |           HTML, CSS, JS, Figma            |
-| 🔗 [**Scarface site**](https://github.com/Egesiapres/scarface-site)           |             HTML, CSS, Figma              |
+| Name                                                                          |                  Tech Stack                  |
+| ----------------------------------------------------------------------------- | :------------------------------------------: |
+| 🔗 [**Subtitles Editor app**](https://github.com/Egesiapres/subEditor-app)    |  React, Material UI, JS, Git, Vite, Netlify  |
+| 🔗 [**Weather app**](https://github.com/Egesiapres/weather-app)               |       HTML, CSS, JS, Git, GitHub Pages       |
+| 🔗 [**Calculator app**](https://github.com/Egesiapres/calculator-app)         | HTML, SCSS, JS, bootstrap, Git, GitHub Pages |
+| 🔗 [**Data Visualization course**](https://github.com/Egesiapres/dataViz)     |                  R, ggplot2                  |
+| 🔗 [**WirtualCare blog**](https://github.com/Egesiapres/wirtualCare-blog)     |             WordPress, Elementor             |
+| 🔗 [**Web development studies**](https://github.com/Egesiapres/webDev-skills) |            HTML, CSS, JS, TS, Git            |
+| 🔗 [**WreckCity site**](https://github.com/Egesiapres/wreckCity-site)         |             HTML, CSS, JS, Figma             |
+| 🔗 [**Scarface site**](https://github.com/Egesiapres/scarface-site)           |               HTML, CSS, Figma               |
 
 #
 
@@ -68,79 +68,77 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C483%20hrs%203%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 789.5 kB Used in GitHub's Storage 
- > 
+> 📦 789.5 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 12 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
-**I'm an Early 🐤** 
+>
+> 📜 12 Public Repositories
+>
+> 🔑 5 Private Repositories
+>
+> **I'm an Early 🐤**
 
 ```text
-🌞 Morning                447 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
-🌆 Daytime                978 commits         █████████████░░░░░░░░░░░░   51.37 % 
-🌃 Evening                460 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+🌞 Morning                447 commits         ██████░░░░░░░░░░░░░░░░░░░   23.48 %
+🌆 Daytime                978 commits         █████████████░░░░░░░░░░░░   51.37 %
+🌃 Evening                460 commits         ██████░░░░░░░░░░░░░░░░░░░   24.16 %
+🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 ```
-📅 **I'm Most Productive on Thursday** 
+
+📅 **I'm Most Productive on Thursday**
 
 ```text
-Monday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 % 
-Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Wednesday                289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Thursday                 498 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-Friday                   388 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
-Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 % 
-Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Monday                   403 commits         █████░░░░░░░░░░░░░░░░░░░░   21.17 %
+Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Wednesday                289 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.18 %
+Thursday                 498 commits         ███████░░░░░░░░░░░░░░░░░░   26.16 %
+Friday                   388 commits         █████░░░░░░░░░░░░░░░░░░░░   20.38 %
+Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
+Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
-💬 Programming Languages: 
-JavaScript               29 hrs 25 mins      ████████████████████░░░░░   81.86 % 
-Python                   4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
-CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+💬 Programming Languages:
+JavaScript               29 hrs 25 mins      ████████████████████░░░░░   81.86 %
+Python                   4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.49 %
+Markdown                 1 hr 12 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
+CSS                      20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 
-🔥 Editors: 
-VS Code                  35 hrs 56 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  35 hrs 56 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-dossier                  22 hrs 29 mins      ████████████████░░░░░░░░░   62.54 % 
-chc                      7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-project                  5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+🐱‍💻 Projects:
+dossier                  22 hrs 29 mins      ████████████████░░░░░░░░░   62.54 %
+chc                      7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.86 %
+project                  5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.59 %
 
-💻 Operating System: 
-Mac                      35 hrs 56 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Mac                      35 hrs 56 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 % 
-Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   43.75 %
+Python                   2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
+TypeScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+Jupyter Notebook         1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
+TeX                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 %
 ```
 
+<!-- **Timeline** -->
 
+<!-- ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png) -->
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
-
-
- Last Updated on 14/01/2025 18:41:03 UTC
+<!-- Last Updated on 14/01/2025 18:41:03 UTC -->
 <!--END_SECTION:waka-->
