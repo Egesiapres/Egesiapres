@@ -68,13 +68,15 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C598%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C602%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 789.6 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -107,18 +109,18 @@ Sunday                   56 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               17 hrs 38 mins      █████████████████████████   98.10 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+JavaScript               19 hrs 59 mins      █████████████████████████   98.32 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+HTML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 19 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      17 hrs 59 mins      █████████████████████████   100.00 % 
+chc                      20 hrs 19 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +140,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 06/03/2025 18:43:18 UTC
+ Last Updated on 07/03/2025 18:42:49 UTC
 <!--END_SECTION:waka-->
