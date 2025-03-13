@@ -68,15 +68,13 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C605%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C607%20hrs%201%20min-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 789.6 kB Used in GitHub's Storage 
- > 
-> 🏆 10 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -109,19 +107,19 @@ Sunday                   56 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               8 hrs 37 mins       █████████████████████████   99.15 % 
-Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+JavaScript               5 hrs 29 mins       █████████████████████████   98.59 % 
+Python                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 42 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 34 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-chc                      8 hrs 16 mins       ████████████████████████░   95.08 % 
-booking                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.77 % 
-dossier                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+chc                      4 hrs 22 mins       ████████████████████░░░░░   78.47 % 
+booking                  42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+dossier                  29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
 
 💻 Operating System: 
-Mac                      8 hrs 42 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +139,5 @@ Jupyter Notebook         1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 12/03/2025 18:44:30 UTC
+ Last Updated on 13/03/2025 18:43:48 UTC
 <!--END_SECTION:waka-->
