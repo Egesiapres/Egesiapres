@@ -68,13 +68,13 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C722%20hrs%2049%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 791.9 kB Used in GitHub's Storage 
- > 
-> 🏆 60 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -82,6 +82,43 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                457 commits         ██████░░░░░░░░░░░░░░░░░░░   23.33 % 
+🌆 Daytime                1017 commits        █████████████░░░░░░░░░░░░   51.91 % 
+🌃 Evening                466 commits         ██████░░░░░░░░░░░░░░░░░░░   23.79 % 
+🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   427 commits         █████░░░░░░░░░░░░░░░░░░░░   21.80 % 
+Tuesday                  209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Thursday                 500 commits         ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+Friday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Sunday                   56 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,5 +136,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 16/09/2025 18:44:48 UTC
+ Last Updated on 17/09/2025 18:44:49 UTC
 <!--END_SECTION:waka-->
