@@ -109,16 +109,20 @@ Sunday                   56 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ██████████████████████░░░   88.23 % 
+Python                   1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+chc                      11 mins             ███████████████████████░░   90.67 % 
+aws-swagger-docs         1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -138,5 +142,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 16/01/2026 18:53:38 UTC
+ Last Updated on 17/01/2026 18:48:00 UTC
 <!--END_SECTION:waka-->
