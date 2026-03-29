@@ -109,19 +109,16 @@ Sunday                   61 commits          █░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-HTML                     53 mins             █████████████░░░░░░░░░░░░   50.02 % 
-CSS                      38 mins             █████████░░░░░░░░░░░░░░░░   36.41 % 
-JavaScript               14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-weather-app              1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 32 mins        ██████████████████████░░░   87.36 % 
-Linux                    13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.64 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -141,5 +138,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2026 19:05:01 UTC
+ Last Updated on 29/03/2026 19:07:02 UTC
 <!--END_SECTION:waka-->
