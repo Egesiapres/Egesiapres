@@ -82,6 +82,43 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                457 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌆 Daytime                1024 commits        █████████████░░░░░░░░░░░░   51.69 % 
+🌃 Evening                475 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   435 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Tuesday                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 500 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Friday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Saturday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Sunday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,5 +136,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 20:40:31 UTC
+ Last Updated on 29/05/2026 20:40:55 UTC
 <!--END_SECTION:waka-->
