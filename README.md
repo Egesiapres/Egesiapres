@@ -68,6 +68,10 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 <br />
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C752%20hrs%2015%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -82,6 +86,49 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                457 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌆 Daytime                1024 commits        █████████████░░░░░░░░░░░░   51.69 % 
+🌃 Evening                475 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   435 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Tuesday                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 500 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Friday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Saturday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Sunday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -99,5 +146,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 00:21:02 UTC
+ Last Updated on 07/08/2026 19:26:42 UTC
 <!--END_SECTION:waka-->
