@@ -72,7 +72,7 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%201%20min-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.45%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -89,21 +89,21 @@ Hi everyone, I'm _Umberto_, and I'm a **Junior Front-end Developer** and a<br>te
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                437 commits         ██████░░░░░░░░░░░░░░░░░░░   22.80 % 
-🌆 Daytime                1007 commits        █████████████░░░░░░░░░░░░   52.53 % 
-🌃 Evening                454 commits         ██████░░░░░░░░░░░░░░░░░░░   23.68 % 
-🌙 Night                  19 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+🌞 Morning                457 commits         ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+🌆 Daytime                1024 commits        █████████████░░░░░░░░░░░░   51.69 % 
+🌃 Evening                475 commits         ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+🌙 Night                  25 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   429 commits         ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
-Tuesday                  205 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Wednesday                286 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Thursday                 476 commits         ██████░░░░░░░░░░░░░░░░░░░   24.83 % 
-Friday                   406 commits         █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
-Saturday                 65 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-Sunday                   50 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.61 % 
+Monday                   435 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+Tuesday                  211 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Wednesday                293 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+Thursday                 500 commits         ██████░░░░░░░░░░░░░░░░░░░   25.24 % 
+Friday                   409 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
+Saturday                 72 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Sunday                   61 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 
 
@@ -146,5 +146,5 @@ Jupyter Notebook         1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Egesiapres/Egesiapres/master/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2026 21:17:50 UTC
+ Last Updated on 09/09/2026 21:02:27 UTC
 <!--END_SECTION:waka-->
